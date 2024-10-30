@@ -7,6 +7,7 @@ dentistnetwork/out-tsc
 dentistnetwork/bazel-out
 bin/Debug/
 obj/Debug/
+internal_logs/
 # Node
 dentistnetwork/node_modules
 npm-debug.log
