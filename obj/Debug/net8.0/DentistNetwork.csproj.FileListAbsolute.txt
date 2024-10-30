@@ -37,3 +37,9 @@ C:\Users\deusdies\Desktop\Bogdan Petrovic\ETF\Diplomski\DentistNetwork\DentistNe
 C:\Users\deusdies\Desktop\Bogdan Petrovic\ETF\Diplomski\DentistNetwork\DentistNetwork\obj\Debug\net8.0\DentistNetwork.genruntimeconfig.cache
 C:\Users\deusdies\Desktop\Bogdan Petrovic\ETF\Diplomski\DentistNetwork\DentistNetwork\obj\Debug\net8.0\ref\DentistNetwork.dll
 C:\Users\deusdies\Desktop\Bogdan Petrovic\ETF\Diplomski\DentistNetwork\DentistNetwork\obj\Debug\net8.0\DentistNetwork.sourcelink.json
+C:\Users\deusdies\Desktop\Bogdan Petrovic\ETF\Diplomski\DentistNetwork\DentistNetwork\bin\Debug\net8.0\NLog.dll
+C:\Users\deusdies\Desktop\Bogdan Petrovic\ETF\Diplomski\DentistNetwork\DentistNetwork\bin\Debug\net8.0\NLog.Extensions.Logging.dll
+C:\Users\deusdies\Desktop\Bogdan Petrovic\ETF\Diplomski\DentistNetwork\DentistNetwork\bin\Debug\net8.0\Contracts.dll
+C:\Users\deusdies\Desktop\Bogdan Petrovic\ETF\Diplomski\DentistNetwork\DentistNetwork\bin\Debug\net8.0\LoggerService.dll
+C:\Users\deusdies\Desktop\Bogdan Petrovic\ETF\Diplomski\DentistNetwork\DentistNetwork\bin\Debug\net8.0\LoggerService.pdb
+C:\Users\deusdies\Desktop\Bogdan Petrovic\ETF\Diplomski\DentistNetwork\DentistNetwork\bin\Debug\net8.0\Contracts.pdb

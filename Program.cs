@@ -1,6 +1,8 @@
 using Extensions;
-
+using NLog;
 var builder = WebApplication.CreateBuilder(args);
+
+LogManager.Setup().LoadConfigurationFromFile(string.Concat(Directory.GetCurrentDirectory(), "/NLog.config"));
 
 builder.Services.ConfigureCors();
 builder.Services.ConfigureIISIntegration();
@@ -12,8 +14,14 @@ builder.Services.AddControllers();
 
 var app = builder.Build();
 
-app.UseDefaultFiles();
-app.UseStaticFiles();
+
+if (app.Environment.IsDevelopment())
+    app.UseDeveloperExceptionPage();
+else
+    app.UseHsts();
+
+//app.UseDefaultFiles();
+//app.UseStaticFiles();
 
 // Configure the HTTP request pipeline.
 //if (app.Environment.IsDevelopment())
@@ -23,6 +31,14 @@ app.UseStaticFiles();
 //}
 
 app.UseHttpsRedirection();
+
+app.UseStaticFiles();
+app.UseForwardedHeaders(new ForwardedHeadersOptions
+{
+    ForwardedHeaders = Microsoft.AspNetCore.HttpOverrides.ForwardedHeaders.All
+});
+
+app.UseCors();
 
 app.UseAuthorization();
 
