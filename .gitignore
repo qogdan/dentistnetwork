@@ -29,13 +29,13 @@ yarn-error.log
 .history/*
 
 # Miscellaneous
-/.angular/cache
+dentistnetwork/.angular/cache
 .sass-cache/
-/connect.lock
-/coverage
-/libpeerconnection.log
+dentistnetwork/connect.lock
+dentistnetwork/coverage
+dentistnetwork/libpeerconnection.log
 testem.log
-/typings
+dentistnetwork/typings
 
 # System files
 .DS_Store
