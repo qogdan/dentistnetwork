@@ -5,7 +5,8 @@ dentistnetwork/dist
 dentistnetwork/tmp
 dentistnetwork/out-tsc
 dentistnetwork/bazel-out
-bin/Debug
+bin/Debug/
+obj/Debug/
 # Node
 dentistnetwork/node_modules
 npm-debug.log
