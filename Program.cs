@@ -3,7 +3,7 @@ using Extensions;
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.ConfigureCors();
-builder.Services.ConfigureIISIntergraiton();
+builder.Services.ConfigureIISIntegration();
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

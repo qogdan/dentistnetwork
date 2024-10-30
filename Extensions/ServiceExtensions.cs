@@ -6,7 +6,7 @@
         {
             options.AddPolicy("CorsPolicy", builder => builder.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());
         });
-        public static void ConfigureIISIntergraiton(this IServiceCollection services) => services.Configure<IISOptions>(options =>
+        public static void ConfigureIISIntegration(this IServiceCollection services) => services.Configure<IISOptions>(options =>
         {
         });
     }
