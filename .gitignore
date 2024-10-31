@@ -9,7 +9,7 @@ bin/Debug/
 obj/Debug/
 internal_logs/
 # Node
-dentistnetwork/node_modules
+DentistNetwork/dentistnetwork/node_modules
 npm-debug.log
 yarn-error.log
 
