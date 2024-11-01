@@ -36,9 +36,30 @@ namespace DentistNetwork.Migrations
                     b.Property<string>("Country")
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasMaxLength(60)
+                        .HasColumnType("nvarchar(60)");
+
                     b.HasKey("Id");
 
                     b.ToTable("Companies");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = new Guid("c9d4c053-49b6-410c-bc78-2d54a9991870"),
+                            Address = "583 Itd Itd Street",
+                            Country = "USA",
+                            Name = "It_Solutions Ltd"
+                        },
+                        new
+                        {
+                            Id = new Guid("3d490a70-94ce-4d15-9494-5248280c2ce3"),
+                            Address = "312 Forest Avenue Street",
+                            Country = "USA",
+                            Name = "Admin_Solutions Ltd"
+                        });
                 });
 
             modelBuilder.Entity("Employee", b =>
@@ -69,6 +90,32 @@ namespace DentistNetwork.Migrations
                     b.HasIndex("CompanyId");
 
                     b.ToTable("Employees");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = new Guid("6affa36e-77df-4a24-af97-812edd00f140"),
+                            Age = 26,
+                            CompanyId = new Guid("c9d4c053-49b6-410c-bc78-2d54a9991870"),
+                            Name = "Sam Raider",
+                            Position = "Software dev"
+                        },
+                        new
+                        {
+                            Id = new Guid("7cb02243-fa0e-4baf-8be1-4cef194006df"),
+                            Age = 30,
+                            CompanyId = new Guid("c9d4c053-49b6-410c-bc78-2d54a9991870"),
+                            Name = "Jana McLeaf",
+                            Position = "Software dev"
+                        },
+                        new
+                        {
+                            Id = new Guid("a7087880-5e69-451b-bd6a-878a590d0a9f"),
+                            Age = 35,
+                            CompanyId = new Guid("3d490a70-94ce-4d15-9494-5248280c2ce3"),
+                            Name = "Kane Miller",
+                            Position = "Administrator"
+                        });
                 });
 
             modelBuilder.Entity("Employee", b =>

@@ -30,6 +30,7 @@ yarn-error.log
 !.vscode/extensions.json
 .history/*
 .vs/*
+Debug/
 
 # Miscellaneous
 DentistNetwork/dentistnetwork/.angular/cache
