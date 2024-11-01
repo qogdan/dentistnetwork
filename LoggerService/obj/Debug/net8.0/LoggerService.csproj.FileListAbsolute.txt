@@ -13,3 +13,4 @@ C:\Users\deusdies\Desktop\Bogdan Petrovic\ETF\Diplomski\DentistNetwork\LoggerSer
 C:\Users\deusdies\Desktop\Bogdan Petrovic\ETF\Diplomski\DentistNetwork\LoggerService\obj\Debug\net8.0\refint\LoggerService.dll
 C:\Users\deusdies\Desktop\Bogdan Petrovic\ETF\Diplomski\DentistNetwork\LoggerService\obj\Debug\net8.0\LoggerService.pdb
 C:\Users\deusdies\Desktop\Bogdan Petrovic\ETF\Diplomski\DentistNetwork\LoggerService\obj\Debug\net8.0\ref\LoggerService.dll
+C:\Users\deusdies\Desktop\Bogdan Petrovic\ETF\Diplomski\DentistNetwork\LoggerService\obj\Debug\net8.0\LoggerService.sourcelink.json

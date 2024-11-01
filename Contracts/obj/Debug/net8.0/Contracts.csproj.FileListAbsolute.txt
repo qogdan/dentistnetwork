@@ -9,3 +9,4 @@ C:\Users\deusdies\Desktop\Bogdan Petrovic\ETF\Diplomski\DentistNetwork\Contracts
 C:\Users\deusdies\Desktop\Bogdan Petrovic\ETF\Diplomski\DentistNetwork\Contracts\obj\Debug\net8.0\refint\Contracts.dll
 C:\Users\deusdies\Desktop\Bogdan Petrovic\ETF\Diplomski\DentistNetwork\Contracts\obj\Debug\net8.0\Contracts.pdb
 C:\Users\deusdies\Desktop\Bogdan Petrovic\ETF\Diplomski\DentistNetwork\Contracts\obj\Debug\net8.0\ref\Contracts.dll
+C:\Users\deusdies\Desktop\Bogdan Petrovic\ETF\Diplomski\DentistNetwork\Contracts\obj\Debug\net8.0\Contracts.sourcelink.json

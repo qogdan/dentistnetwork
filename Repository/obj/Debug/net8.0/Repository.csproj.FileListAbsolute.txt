@@ -1,0 +1,16 @@
+C:\Users\deusdies\Desktop\Bogdan Petrovic\ETF\Diplomski\DentistNetwork\Repository\bin\Debug\net8.0\Repository.deps.json
+C:\Users\deusdies\Desktop\Bogdan Petrovic\ETF\Diplomski\DentistNetwork\Repository\bin\Debug\net8.0\Repository.dll
+C:\Users\deusdies\Desktop\Bogdan Petrovic\ETF\Diplomski\DentistNetwork\Repository\bin\Debug\net8.0\Repository.pdb
+C:\Users\deusdies\Desktop\Bogdan Petrovic\ETF\Diplomski\DentistNetwork\Repository\bin\Debug\net8.0\Entities.dll
+C:\Users\deusdies\Desktop\Bogdan Petrovic\ETF\Diplomski\DentistNetwork\Repository\bin\Debug\net8.0\Entities.pdb
+C:\Users\deusdies\Desktop\Bogdan Petrovic\ETF\Diplomski\DentistNetwork\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+C:\Users\deusdies\Desktop\Bogdan Petrovic\ETF\Diplomski\DentistNetwork\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deusdies\Desktop\Bogdan Petrovic\ETF\Diplomski\DentistNetwork\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+C:\Users\deusdies\Desktop\Bogdan Petrovic\ETF\Diplomski\DentistNetwork\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+C:\Users\deusdies\Desktop\Bogdan Petrovic\ETF\Diplomski\DentistNetwork\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\deusdies\Desktop\Bogdan Petrovic\ETF\Diplomski\DentistNetwork\Repository\obj\Debug\net8.0\Repository.sourcelink.json
+C:\Users\deusdies\Desktop\Bogdan Petrovic\ETF\Diplomski\DentistNetwork\Repository\obj\Debug\net8.0\Repository.csproj.Up2Date
+C:\Users\deusdies\Desktop\Bogdan Petrovic\ETF\Diplomski\DentistNetwork\Repository\obj\Debug\net8.0\Repository.dll
+C:\Users\deusdies\Desktop\Bogdan Petrovic\ETF\Diplomski\DentistNetwork\Repository\obj\Debug\net8.0\refint\Repository.dll
+C:\Users\deusdies\Desktop\Bogdan Petrovic\ETF\Diplomski\DentistNetwork\Repository\obj\Debug\net8.0\Repository.pdb
+C:\Users\deusdies\Desktop\Bogdan Petrovic\ETF\Diplomski\DentistNetwork\Repository\obj\Debug\net8.0\ref\Repository.dll

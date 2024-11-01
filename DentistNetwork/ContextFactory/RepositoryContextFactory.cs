@@ -10,8 +10,10 @@ public class RepositoryContextFactory : IDesignTimeDbContextFactory<RepositoryCo
             .AddJsonFile("appsettings.json")
             .Build();
 
+        //migrations assembly is not in main project, but in the Repository project, 
         var builder = new DbContextOptionsBuilder<RepositoryContext>()
-            .UseSqlServer(configuration.GetConnectionString("sqlConnection"));
+            .UseSqlServer(configuration.GetConnectionString("sqlConnection"),
+            b => b.MigrationsAssembly("DentistNetwork"));
 
         return new RepositoryContext(builder.Options);
     }
