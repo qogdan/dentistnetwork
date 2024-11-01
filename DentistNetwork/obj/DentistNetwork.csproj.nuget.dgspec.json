@@ -313,6 +313,9 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
+              "C:\\Users\\deusdies\\Desktop\\Bogdan Petrovic\\ETF\\Diplomski\\DentistNetwork\\Contracts\\Contracts.csproj": {
+                "projectPath": "C:\\Users\\deusdies\\Desktop\\Bogdan Petrovic\\ETF\\Diplomski\\DentistNetwork\\Contracts\\Contracts.csproj"
+              },
               "C:\\Users\\deusdies\\Desktop\\Bogdan Petrovic\\ETF\\Diplomski\\DentistNetwork\\Entities\\Entities.csproj": {
                 "projectPath": "C:\\Users\\deusdies\\Desktop\\Bogdan Petrovic\\ETF\\Diplomski\\DentistNetwork\\Entities\\Entities.csproj"
               }
